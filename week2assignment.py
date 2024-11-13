@@ -20,5 +20,3 @@ my_list.sort()
 
 # 57. Find and print the index of the value 30 in my_list.
 print(my_list.index(30))
-
-# The answer is 3
